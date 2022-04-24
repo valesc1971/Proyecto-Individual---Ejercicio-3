@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+header{
+  text-align: center;
+  color: rgba(30, 39, 46,1.0);
+  margin:2%;
+}
+header h1{
+text-align: center;
+text-align: center;
+color: rgb(146, 139, 120);
+font-size: xxX-large;
+}
+
+.navbar{
+  margin:10px;
+}
+#form-contact{
+  color: #fff;
+  text-align: center;
+}
+
+#form-contact:hover {
+   color: rgba(30, 39, 46,1.0);
+   background-color:  #fff;
+}
+
+.bg-black_1{
+  background-color:  rgb(148, 145, 138);
+}
+
+header{
+  text-align: center;
+  color: rgba(30, 39, 46,1.0);
+}
+
+
+.nav-item{
+  color:white;
+}
+
+
+#btn-1 {
+  width: 25%;
+  margin-left: 38%;
+  
+  
+}
+
+
+
+#barranav {
+  text-align: center; 
+  
+  color: #fff;
+  background-color:  rgb(148, 145, 138);
+  
+} 
+
+#example_wrapper{
+
+  margin: 5%;
+}
+
+table {
+margin-left: 20%;
+
+}
+
+footer {
+  background-color: rgb(148, 145, 138);
+  color:#fff;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10%;
+  padding-bottom: 1%;
+  margin:10px;
+
+
+  font-size: small;
+
+}

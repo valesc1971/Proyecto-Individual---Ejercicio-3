@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header{
+  text-align: center;
+  color: rgba(30, 39, 46,1.0);
+  margin:2%;
+}
+header h1{
+text-align: center;
+text-align: center;
+color: rgb(146, 139, 120);
+font-size: xxX-large;
+}
+
+.navbar{
+  margin:10px;
+}
+
+.bg-black_1{
+  background-color:  rgb(148, 145, 138);
+}
+
+#form-contact{
+  color: #fff;
+  text-align: center;
+}
+
+#form-contact:hover {
+   color: rgba(30, 39, 46,1.0);
+   background-color:  #fff;
+}
+
+
+#inicio{
+background-color: rgba(30, 39, 46,1.0);
+color: #fff;
+margin-bottom: 10px;
+margin-top:10px;
+padding: 10px; 
+margin:10px; 
+text-align: center;
+
+}
+
+#descripcion{
+
+margin-bottom: 10px;
+margin-top:10px;
+padding: 20px; 
+margin:10px; 
+margin-left: 15%;
+margin-right:15%;
+text-align: justify;
+border: 3px solid #beb6a0;
+text-align: center;
+font-size: large;
+color: rgb(146, 139, 120);
+
+
+}
+
+#tit1{
+  background-color: rgba(30, 39, 46,1.0);
+  margin-bottom: 10px;
+  margin-top:10px;
+  padding: 10px; 
+  margin:10px; 
+
+}
+
+#carouselExampleIndicators{
+  margin-left:35%;
+}
+
+
+.carousel-item {
+  border: 10px solid rgb(148, 145, 138);
+
+
+}
+
+
+.carousel-inner img {
+  width: 10%;
+  height: auto;
+
+
+}
+
+.carousel {
+  width:25%;
+  margin-left:25%;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width: 100%;
+}
+
+
+footer {
+  background-color: rgb(148, 145, 138);
+  color:#fff;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10%;
+  padding-bottom: 1%;
+  margin:10px;
+
+
+  font-size: small;
+
+}
+
+
